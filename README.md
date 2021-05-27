@@ -13,4 +13,5 @@
 | [Защита персональных данных](protection-personal-data) | Разработка метода преобразования данных, чтобы по ним было сложно восстановить персональную информацию. | *pandas*, *NumPy*, *scikit-learn* |
 | [Определение стоимости автомобилей](cars-cost) | Построение модели для определения стоимости автомобиля. | *pandas*, *NumPy*, *scikit-learn*, *CatBoost*, *LightGBM* |
 | [Прогнозирование заказов такси](taxi-orders) | Построить модель для прогнозирования количества заказов такси на следующий час. | *pandas*, *NumPy*, *Matplotlib*, *scikit-learn*, *CatBoost* |
-| [Анализ тональности текста](sentiment-analysis) | Построить модель для классификации комментариев на позитивные и негативные. | *pandas*, *NumPy*, *scikit-learn*, *CatBoost*, *Natural Language Toolkit*, *spaCy*, *SciPy*, *Gensim*, *PyTorch*, *BERT* |
+| [Анализ тональности текста](sentiment-analysis) | Построение модели для классификации комментариев на позитивные и негативные. | *pandas*, *NumPy*, *scikit-learn*, *CatBoost*, *Natural Language Toolkit*, *spaCy*, *SciPy*, *Gensim*, *PyTorch*, *BERT* |
+| [Определение возраста покупателей](customer-age) | Построение модели для определения по фотографии возраста человека. | *pandas*, *NumPy*, *TensorFlow*, *Keras* |
